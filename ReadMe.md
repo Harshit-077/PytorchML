@@ -19,6 +19,7 @@ This project trains a simple neural network to classify rice grains into two cat
 ## 📂 Dataset
 
 The dataset is downloaded using `opendatasets` directly from Kaggle.
+`https://www.kaggle.com/datasets/mssmartypants/rice-type-classification`
 
 Features include:
 
